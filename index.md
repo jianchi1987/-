@@ -1,6 +1,6 @@
 坚持科技
 
-You can use the [editor on GitHub](https://github.com/jianchi1987/xz/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+这是一个完全静态的网页，今天是2022.3.21号的 0:38分，我要用自己的双手打出属于自己的博客！
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
